@@ -1,0 +1,4 @@
+# Custom application properties
+app:
+    name: Student Registration
+    version: 1.0.0
